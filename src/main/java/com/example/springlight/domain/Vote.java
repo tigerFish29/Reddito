@@ -11,7 +11,7 @@ import javax.persistence.Id;
 @Data
 @NoArgsConstructor
 
-public class Vote {
+public class Vote  {
     @Id
     @GeneratedValue
 
